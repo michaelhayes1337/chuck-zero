@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-chuckzero-dev-123508-authRole",
+      "UnauthRoleArn": "arn:aws:iam::443659653240:role/amplify-chuckzero-dev-123508-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::443659653240:role/amplify-chuckzero-dev-123508-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-chuckzero-dev-123508-deployment",
+      "UnauthRoleName": "amplify-chuckzero-dev-123508-unauthRole",
+      "StackName": "amplify-chuckzero-dev-123508",
+      "StackId": "arn:aws:cloudformation:us-east-1:443659653240:stack/amplify-chuckzero-dev-123508/75c0c020-90a6-11ec-b21b-127df4d38a9f",
+      "AmplifyAppId": "dq1q7ymk63tqz"
+    },
+    "categories": {
+      "auth": {
+        "chuckzero00e0db87": {}
+      }
+    }
+  }
+}
